@@ -1,0 +1,5 @@
+dep
+obj
+bin
+*.out*
+.ycm_extra_conf.py*
